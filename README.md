@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="LLM Hannah — UFO in a Florida Spring" width="100%">
+  <img src="assets/banner.PNG" alt="LLM Hannah — UFO in a Florida Spring" width="100%">
 </p>
 
 <h1 align="center">🛸 LLM HANNAH</h1>
