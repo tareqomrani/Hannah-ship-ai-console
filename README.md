@@ -54,8 +54,8 @@ And she does it all with style.
 
 💎 Features
 
-Feature
-What It Does
+What It Does:
+
 🧠 LLM Brain
 Talks like a real AI (optional OpenAI API)
 🚀 Offline Mode
