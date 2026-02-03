@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="assets/banner.png" alt="LLM Hannah UFO Banner" width="100%">
+  <img src="assets/banner.png" alt="LLM Hannah — UFO in a Florida Spring" width="100%">
 </p>
 
-<br/>
+<h1 align="center">🛸 LLM HANNAH</h1>
 
+<p align="center">
+  <em>The Most Fabulous UFO-Powered AI Assistant in Florida</em>
+</p>
+
+<hr>
 🛸 LLM HANNAH
 
 The Most Fabulous UFO-Powered AI Assistant in Florida
